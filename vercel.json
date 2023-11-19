@@ -9,9 +9,10 @@
     { "src": "/ini", "dest": "/api/php.ini" },
     { "src": "/(.*)", "dest": "/api/$1" }
   ],
-  "build": {
-    "env": {
-      "NOW_PHP_DEBUG": "1"
+  "builds": [
+    {
+      "src": "index.php",
+      "use": "vercel-php@0.6.0"
     }
-  }
+  ]
 }
