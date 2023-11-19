@@ -2777,12 +2777,12 @@ input:checked+label::after {
         </div>
     </div>
 
-    <script src="js/remarkable.js"></script>
-    <script src="js/jquery-3.6.4.min.js"></script>
-    <script src="js/jquery.cookie.min.js"></script>
-    <script src="js/layer.min.js"></script>
-    <script src="js/chat.js?v2.8"></script>
-    <script src="js/highlight.min.js"></script>
+    <script src="/remarkable.js"></script>
+    <script src="/jquery-3.6.4.min.js"></script>
+    <script src="/jquery.cookie.min.js"></script>
+    <script src="/layer.min.js"></script>
+    <script src="/chat.js?v2.8"></script>
+    <script src="/highlight.min.js"></script>
     
     <script src="//cdn.bootcss.com/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     <script type="text/x-mathjax-config">
